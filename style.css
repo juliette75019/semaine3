@@ -1,1 +1,45 @@
-bla
+body {
+    font-family : arial;
+}
+
+.jumbotron { 
+    background-image: url('http://www.unesourisetmoi.info/wall32/images/paysage-fonds-ecran_04.jpg');
+    color: white;
+}
+
+.fields {
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.img {
+	max-width: 100%;
+	height: auto;
+}
+
+.listes{
+    text-align: left;
+    background-color: #339966;;
+    color: white;
+    list-style: disc;
+    height: 180px;
+    padding: 25px 50px 15px 40px;
+    line-height : 25px;
+    margin-bottom : 10px;
+}
+#puce{
+ list-style: square;   
+}
+
+
+.footer {
+    padding: 5px  50px 5px 100px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.footer a {
+    color: white;
+}
